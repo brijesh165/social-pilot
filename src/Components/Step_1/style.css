@@ -1,0 +1,14 @@
+.step_1_rowStyle {
+    width: "100%";
+    display: "flex";
+    align-items: 'center';
+    justify-content: 'flex-end';
+
+    margin-top: 10px;
+}
+
+.colStyle {
+    display: flex !important;
+    align-items: center;
+    justify-content: flex-end;
+}
